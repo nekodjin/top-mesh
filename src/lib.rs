@@ -1,3 +1,3 @@
-mod rw;
-mod mutex;
-mod sync;
+pub mod rw;
+pub mod mutex;
+pub mod sync;
