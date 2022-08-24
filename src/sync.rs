@@ -1,2 +1,2 @@
-mod rw;
-mod mutex;
+pub mod rw;
+pub mod mutex;
